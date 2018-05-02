@@ -61,16 +61,21 @@ Despite their efforts at resettlement, only refugees who are at risk in Egypt fo
 
 • Medical Needs (life-threatening condition or severe dis-
 ability; requires treatment unavailable in Egypt; high prognosis of success if treated elsewhere; not able to over disability in Egypt; condition worsened in Egypt)
+
 • Women at Risk
+
 • Survivors of Violence and Torture (with severe effects
 of that torture in Egypt)
+
 • Unaccompanied Minors
+
 • Family Reunification
+
 • Elderly Refugees
 
 Most of these refugees are referred to live in the U.S., though the U.S. has its own resettlement programs for specific populations, rendering the resettlement efforts of RLAP futile.
 
-http://stars-egypt.org/get-involved/
+**http://stars-egypt.org/get-involved/**
 
 
 
@@ -82,11 +87,11 @@ L.marker([30.0609, 31.2197]).actions.addRemove(S.map)
 ```
 ![Egypt](http://www.refuge-egypt.org/wp-content/uploads/2015/08/Logo-White.jpg)
 
-When a foreigner resides among you in your land, do not mistreat them. The foreigner residing among you must be treated as your native-born. Love them as yourself, for you were foreigners in Egypt. I am the LORD your God.” Leviticus 19:33-34
+*When a foreigner resides among you in your land, do not mistreat them. The foreigner residing among you must be treated as your native-born. Love them as yourself, for you were foreigners in Egypt. I am the LORD your God.” Leviticus 19:33-34*
 
 Despite the Christian population in Egypt being 10%, Refuge Egypt is another Christian organization providing humanitarian support to refugees in Cairo. For the first 2 years of being in Egypt, refugees are provided with food, clothing, and shelter. The organization provides youth education and mentorship, and trains refugee adults while placing them with prospective-employers in the fields of cooking, cleaning, driving, and babysitting. This organization also provides medical services through primary health care services, for other services, the organization provides referrals.  Unfortunately, 42 million native citizens already do not have insurance in Egypt, meaning that it is unlikely that refugees can receive medical care outside of facilities that cater solely to refugees.
 
-http://www.refuge-egypt.org/volunteer/
+**http://www.refuge-egypt.org/volunteer/**
 
 #**UNHCR**
 ```
@@ -98,7 +103,7 @@ L.marker([21.3890, 39.8579]).actions.addRemove(S.map)
 
 The UNHCR (UN Refugee Agency) has four offices in Egypt, three of which are located in Cairo. UNHCR seeks one of three durable solutions for refugees and asylum-seekers. These include voluntarily repatriation to the country of origin, local integration in the country of asylum, or resettlement to a third country. UNHCR works closer with NGOs in Egypt than it does with the Egyptian government itself, which can make local integration difficult. The UNHCR also “seeks to reduce situations of forced displacement by encouraging States and other institutions to create conditions that are conducive to the protection of human rights and the peaceful resolution of disputes. Ironically, the UNHCR has done little to protect the minority Christian population in Egypt, who are themselves seeking asylum elsewhere because of extreme religious persecution. It is possible that the vulnerability of Christians in Egypt is the driving force behind their desire to help refugees who, despite their different backgrounds and religions, have experienced similar persecution and violence. Though most NGOs that UNHCR is affiliated with are church-based, volunteers are extremely diverse in order to match the diversity of the country’s refugees and asylum-seekers. 
 
-http://www.unhcr.org/en-us/get-involved.html
+**http://www.unhcr.org/en-us/get-involved.html**
 
 
 #**Egyptian Foundation for Refugee Support**
@@ -111,7 +116,7 @@ L.marker([30.0563, 31.2460]).actions.addRemove(S.map)
 
 The EFRR (Egyptian Foundation for Refugee Rights) is an organization that employs and trains a national network of lawyers that provide legal services to refugees in Egypt. According to their website, “The network allows an increased number of refugees to access legal services in Cairo and provides, for the first time, legal services to refugees outside of Cairo.” The organization focuses on the representation of refugees that have been arrested, detained, or on the verge of deportation. The EFRR also hosts community meetings with refugees every several months, where members of the refugee communities are educated about laws that protect them and their rights. These meetings also function as networking events, where members of marginalized refugee communities can come together. Nevertheless, violence against refugees still persists in Egypt, as employment and educational facilities are already limited. 
 
-http://www.efrr-egypt.org/index.php/activities/community/15-roksprocket-lists/73-join-us
+**http://www.efrr-egypt.org/index.php/activities/community/15-roksprocket-lists/73-join-us**
 
 #**Berlin, Germany**
 ```
