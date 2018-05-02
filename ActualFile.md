@@ -43,6 +43,7 @@ Somali Refugees: 6,714
 - zoom: 10
 L.marker([30.0976, 31.2671]).actions.addRemove(S.map)
 ```
+Egypt is one of the top five countries with the largest number of urban refugees, and one of two African countries that don’t require that refugees live within camps. Cairo is currently hosting large numbers of refugees from Iraq, Sudan, Somalia, Ethiopia, Eritrea, Palestine and elsewhere. In Cairo, the United Nations High Commissioner for Refugees (UNHCR) is the primary institution that determines refugees’ status and offers protection. While NGOs and the UNHCR attempt to do their best to accommodate refugee populations in Cairo, these refugees still face issues in terms of legal representation/protection, security, employment, education, and healthcare—all of which are issues already faced by native Egyptians. For many refugees, despite speaking Arabic, Egypt is merely a pitstop on the way to Europe. Refugee organizations in Egypt, including UNHCR-Egypt, have attempted to create programs that address these integration issues, but have inadvertently deepened the divide between refugees and Egyptians by creating separate systems of care.
 
 
 #**St. Andrews Refugees Services**
