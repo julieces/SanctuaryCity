@@ -118,7 +118,6 @@ http://www.efrr-egypt.org/index.php/activities/community/15-roksprocket-lists/73
 L.marker([52.5830, 13.3594]).actions.addRemove(S.map)
 ```
 ![Germany](https://wherewouldyougo.com/wp-content/uploads/2015/07/Berlin-Germany.jpg)
-
 ##**Statistics**
 
 **Number of Refugees in Germany:** Record 1,300,000 in 2015; 123,000 in 2017
