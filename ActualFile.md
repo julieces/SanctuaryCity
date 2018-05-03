@@ -168,7 +168,7 @@ On February 3, 2016, the German government agreed on a set of stricter asylum me
 L.marker([52.5185, 13.3954]).actions.addRemove(S.map)
 ```
 ![Germany](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/31280116_1901071603259460_6852752816751621647_n.jpg?_nc_cat=0&oh=3e936522aa02df783ea9ea0366b61927&oe=5B565C71)
-This part is about Berlin.
+Known as Kiron University, it is an educational institution in Berlin that enables refugees'access to higher education and successful learning through digital solutions. Opened in 2015, the unversity runs all of its courses online and students have to submit proof of their refugee status in order to enroll. The university puts courses online by existing universities such as Yale, Harvard, and Cambridge, providing a wide range of courses availabe for refugees. 
 
 #**Migration Hub Network**
 ```
@@ -176,8 +176,8 @@ This part is about Berlin.
 - zoom: 12
 L.marker([52.5151, 13.4102]).actions.addRemove(S.map)
 ```
-This part is about Berlin.
 ![Germany](https://cdn.opendemocracy.net/files/imagecache/wysiwyg_imageupload_lightbox_preset/wysiwyg_imageupload/541754/15252706_1361926133827955_7225644671359543484_o.jpg)
+Migration Hub is a network of social entrepreneurs and organisations working in the field of migration, refugee support and assimilation for people who are fleeing for their lives from the Middle East and Africa. Its aim is to create an environment where refugee aid organisations can congregate and collaborate with one another to figure out ways to improve the lives of refugees in Berlin. This co-working collective is located on Spreewerkstätten, and the landlord who owns the building offered the office space rent-free. The ultimate goal at Migration Hub is to mentor refugees, connecting them with organisations working in the sector and encouraging collaboration, knowledge exchange and best practice sharing across the world. 
 
 #**Give Something Back to Berlin**
 ```
@@ -185,17 +185,8 @@ This part is about Berlin.
 - zoom: 12
 L.marker([52.4899, 13.4252]).actions.addRemove(S.map)
 ```
-This part is about Berlin.
 ![Germany](https://okayfactor.com/wp-content/uploads/2015/08/GiveSometingBackToBerlin_Img.jpg)
-
-#**Social Science Works**
-```
-- center: [52.4234, 13.0452]
-- zoom: 12
-L.marker([52.4234, 13.0452]).actions.addRemove(S.map)
-```
-This part is about Berlin.
-![Germany](https://i1.wp.com/socialscienceworks.org/wp-content/uploads/2016/12/image4.jpg?resize=1024%2C768)
+Give Something Back to Berlin focuses on organizing a multitude of different grassroot volunteer efforts and intercultural activities. The no-frills site functions as an interactive database that connects volunteers with organisations in need of various skilled and unskilled helpers. The founder stresses the importance of fostering connections between refugees and volunteers as well as engaging refugees in developing solutions for the current refugee crisis.
 
 #**CUCULA, Refugees Company for Crafts and Design**
 ```
@@ -203,8 +194,8 @@ This part is about Berlin.
 - zoom: 12
 L.marker([52.4962, 13.4218]).actions.addRemove(S.map)
 ```
-This part is about Berlin.
 ![Germany](https://www.cucula.org/wp-content/uploads/2016/02/12485836_892998780817439_7604493599053193873_o.jpg)
+CUCULA takes in refugees as trainees and teaches them craft and design skills, which they can use to find work upon completing the program. Additionally, CUCULA is set up to aid the refugees during their visa application processes and to provide them housing in the interim. The project is funded through the profits yielded from selling the contemporary furniture that the refugees themselves create at the company.
 
 #**The Pergamon Museum**
 ```
@@ -212,8 +203,8 @@ This part is about Berlin.
 - zoom: 12
 L.marker([52.5194, 13.3988]).actions.addRemove(S.map)
 ```
-This part is about Berlin.
 ![Germany](http://www.news1130.com/wp-content/blogs.dir/sites/9/2015/12/17/XMSC103-1216_2015_163710_hd.jpg)
+The Pergamon Museum contains one of the largest collections of Islamic art originating from places like present-day Syria and Iraq. It would be pretty difficult to ignore the fact that thousands flock to the museum to enjoy these exquisite items while the countries themselves are being destroyed. Thus, the Pergamon is offering refugees the exclusive chance to become tour guides at the museum as a means of fostering richer cultural interchange. The tours are also offered to other refugees in their native languages thanks to the tour guides.
 
 #**Refugees on Rails**
 ```
@@ -221,8 +212,8 @@ This part is about Berlin.
 - zoom: 12
 L.marker([52.4996, 13.3878]).actions.addRemove(S.map)
 ```
-This part is about Berlin.
 ![Germany](https://www.rotary1730.org/Portals/0/District/Courrier%20du%20District/201802/Images/2015-2016/58a9dcc2-7b3f-4755-b137-82aa013b1174-refugeesonrails.jpg)
+Refugees on Rails is an initiative that teaches the newcomers how to code. In doing so, the team at Refugees on Rails is helping to boost the economies throughout Europe while also giving refugees tools to better integrate into society. The project largely relies on the help of other IT professionals serving as volunteer buddies for the refugees enrolled in the program, along with donated laptops and other materials. The company has expanded to several cities around Germany since it first began in Berlin.
 
 #**Chicago, U.S.A.**
 ```
