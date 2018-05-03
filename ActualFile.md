@@ -159,6 +159,7 @@ On November 1, 2015, the Act to Improve Housing, Care, and Treatment of Foreign 
 
 On February 3, 2016, the German government agreed on a set of stricter asylum measures (Asylum Package II), which will now be debated by the German Bundestag. The Asylum Package II would suspend family reunification for refugees with subsidiary protection status for a period of two years; decrease asylees’ monthly cash benefits; facilitate deportation; establish a new Federal Police unit to help procure replacement documents; improve the safety of refugee minors; and designate Algeria, Morocco, and Tunisia as safe countries of origin.
 
+
 #**Kiron**
 ```
 - center: [52.5185, 13.3954]
@@ -212,6 +213,20 @@ L.marker([52.4996, 13.3878]).actions.addRemove(S.map)
 ```
 ![Germany](https://www.rotary1730.org/Portals/0/District/Courrier%20du%20District/201802/Images/2015-2016/58a9dcc2-7b3f-4755-b137-82aa013b1174-refugeesonrails.jpg)
 Refugees on Rails is an initiative that teaches the newcomers how to code. In doing so, the team at Refugees on Rails is helping to boost the economies throughout Europe while also giving refugees tools to better integrate into society. The project largely relies on the help of other IT professionals serving as volunteer buddies for the refugees enrolled in the program, along with donated laptops and other materials. The company has expanded to several cities around Germany since it first began in Berlin.
+
+#**How well have refugees integrated in Germany?**
+```
+- center: [52.5830, 13.3594]
+- zoom: 6
+L.marker([52.5830, 13.3594]).actions.addRemove(S.map)
+```
+![Germany](https://www.euractiv.com/wp-content/uploads/sites/2/2015/09/refugees_welcome_berlin.jpeg)
+Once asylum seekers have been preregistered in Germany, they are sent to reception centres, often former army barracks with several hundred beds. They stay in these centerss for up to six months or until their application is decided on. After the application process, they are generally sent to group housing or are allocated private apartments. About 60 per cent of Germany’s refugees are living in reception centers or collective accommodation at the end of 2015 (the latest data available). 
+
+Life in Germany remains a struggle for many of the recent arrivals after moving out of the reception centers. More than 1 million asylum-seekers reached the country in 2015 and at times more than 10,000 people were arriving daily. However, only around 16 percent of refugees are employed, according to official data published in September of 2015.
+
+While refugees are not getting much help in finding job opportunities from the government, the organizations mentioned are attempting to fill in the gaps for them to integrate into the German society. Most of the organizations that provide help for refugees in Berlin are either educational, resourceful, or constructive. They not only teach refugees new skills that can contribute to the development of Germany but also allowing them to have the agency to feel that they are valuable to the German society.
+
 
 #**Chicago, U.S.A.**
 ```
