@@ -13,8 +13,6 @@ by Isa, Anna, Norah, & Sandra
 - zoom: 2
 ```
 
-
-
 #**Cairo, Egypt**
 ```
 - center: [30.0976, 31.2671]
