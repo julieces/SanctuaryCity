@@ -135,10 +135,31 @@ L.marker([52.5830, 13.3594]).actions.addRemove(S.map)
 ```
 **Why Germany?** 
 
-The right to asylum is a constitutional right in Germany and granted to everyone who flees political persecution. The Asylum Act and the Residence Act are the two most important immigration laws in Germany that provide rules for the admission and handling of refugee claims.  There have been several amendments to these and other laws due to the current refugee crisis.
+The right to asylum is a constitutional right in Germany and granted to everyone who flees political persecution. 
 
+Yet, there are adjustments made due to the current refugee crisis.
 
+Despite these adjustments, there are many organizations in Berlin that help refugees integrating into the German society as well as getting jobs and proper education.
 
+**General Rules and Norms for Admission of Refugees and Handling Refugee Claims**
+
+If the applicant was the victim of political persecution, he or she may be granted political asylum under article 16a of the Basic Law. 
+
+**Processes for Handling Refugees**
+
+A refugee can either register as an asylum-seeker at the border or inside the country. The authorities then direct him or her to the closest reception facility. 
+
+**Adjustments or Amendments to the Refugee Handling Procedure Due to the Current Refugee Crisis**
+
+Several amendments to current laws have been adopted in recent months due to the refugee crisis.  
+
+On August 1, 2015, the Act to Redefine the Right to Stay and the Termination of Residence entered into force. It amended the Residence Act by ordering a ban on entry and residence for applicants from safe countries of residence and in case of repeat follow-up applications.
+
+On October 24, 2015, the Act on the Acceleration of Asylum Procedures entered into force. The Act amended several laws in order to accelerate the asylum process.
+
+On November 1, 2015, the Act to Improve Housing, Care, and Treatment of Foreign Minors and Adolescents entered into force. Its goal is to improve the situation of young unaccompanied refugees and provide them with appropriate care.
+
+On February 3, 2016, the German government agreed on a set of stricter asylum measures (Asylum Package II), which will now be debated by the German Bundestag. The Asylum Package II would suspend family reunification for refugees with subsidiary protection status for a period of two years; decrease asylees’ monthly cash benefits; facilitate deportation; establish a new Federal Police unit to help procure replacement documents; improve the safety of refugee minors; and designate Algeria, Morocco, and Tunisia as safe countries of origin.
 
 #**Kiron**
 ```
