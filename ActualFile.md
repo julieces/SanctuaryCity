@@ -239,7 +239,6 @@ L.marker([41.7795, -87.7808]).actions.addRemove(S.map)
 
 **Refugee Arrivals in 2017:** 2,043
 
-
 **Top 5 Countries of Origin:** Syria, DRC, Iraq, Myanmar, Afghanistan
 
 
@@ -251,6 +250,13 @@ L.marker([41.7795, -87.7808]).actions.addRemove(S.map)
 ```
 **Why Chicago?**
 
+Chicago’s history as a Sanctuary City dates back to the 1980s, when the Wellington Avenue Church voted to join the budding sanctuary movement in 1982. The church became the final stop for refugees from El Salvador and Guatemala, who could only enter the United States illegally due to the country’s support of Central American military dictatorships. 
+
+Seven years later, former mayor Richard M. Daley signed an executive order guaranteeing people of all nationalities and those without citizenship “fair and equal access” to employment, benefits, and licenses. This was cited by the Chicago Tribune as the moment when Mayor Daley adopted “Washington’s Sanctuary Stance.” This policy of sanctuary led to a 2006 ordinance aimed to give all Chicagoans access “to the services, opportunities, and protection it provides or administers.”
+
+From 2006 onward, Chicago emerged as a well-known sanctuary city in the United States, which Mayor Rahm Emanuel affirmed when he called it “the most immigrant-friendly city in the country.” The city issued a 2012 ‘Welcoming City’ ordinance, which prohibited police from detaining people based on immigration status, before creating 2016 municipal ID program that gave all Chicagoans an official identification that did not contain nationality or immigration status. These actions have made Chicago a target of the Trump administration, and refuses to cooperate with the U.S. Department of Justice’s mandate for sanctuary cities to assist immigration agents.
+
+As the largest city in the Midwest, Chicago is uniquely positioned to be an example to other cities in the area. The city is also located amidst several small Midwestern towns in states like Michigan and Iowa who resettle multiple refugees while refusing the label of “sanctuary city.” Chicago’s seemingly pro-immigration policies must also be examined in the context of its degradation by the current administration as a city wrought with violence. How much of Chicago’s refugee-friendly stance is to restore its public image, and whether this comes at the expense of other marginalized communities in the city, should be considered when studying the its status as a sanctuary. 
 
 
 ![Chicago](https://upload.wikimedia.org/wikipedia/commons/3/3e/Chicago_aerial_02.jpg)
