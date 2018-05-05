@@ -318,12 +318,15 @@ The skillset of Loom’s artisans is broad and diverse, but is typically viewed 
 
 ![Loom2](https://static1.squarespace.com/static/52858730e4b0115df20f4d63/t/55330906e4b0b404bf34b639/1444352256979/0.jpeg?format=2500w)
 
-#**Chicago Teacher's Union**
+#**Chicago Teachers Union**
 ```
 - center: [41.8875, -87.6754]
 - zoom: 10
 L.marker([41.8875, -87.6754]).actions.addRemove(S.map)
 ```
+The Chicago Teachers Union (CTU) has historically been an advocate of all students, including refugees and immigrants, since it was founded in 1937. Its website clearly outlines its policy of welcoming and protecting all of its students, regardless of immigration status. The CTU also expresses discontent with Chicago’s current legal framework for refugees, and argues that the city should be doing much more to solidify its status as a sanctuary city. In the past, the CTU has issued direct statements to Mayor Emanuel, including one urging him to “step up to protect” undocumented immigrants following the reversal of DACA.
+The CTU website contains number of original resources including guides for other educators to successfully work with refugee students and address their needs. Presently, the CTU is concluding a three-part training series on the issues that directly affect immigrant students.
+
 ![CTU](https://upload.wikimedia.org/wikipedia/en/e/e4/Chicago_Teachers_Union.jpg)
 
 #**Roger C. Sullivan High School**
@@ -332,6 +335,13 @@ L.marker([41.8875, -87.6754]).actions.addRemove(S.map)
 - zoom: 10
 L.marker([42.0028, -87.66891]).actions.addRemove(S.map)
 ```
+At Roger C. Sullivan High School, 300 of 641 students—about 45 percent—are immigrants, many of whom are also refugees. 38 countries are represented, and 35 languages are spoken. Known as the “go-to school for refugees” in Chicago, Sullivan runs on a self-designed cohort model that groups English Language Learner (ELL) students together throughout the day for constant language support. The school works closely with refugee resettlement agencies, and is constantly adjusting its academic programming to fit the needs of its population.
+
+Budget cuts by Chicago Public Schools (CPS) and a lack of state funding do not lend themselves to supporting Sullivan’s cohort model, or its need for ELL teachers. However, the school was selected by CPS as just one of two in the state of Illinois to receive federal funding as a “newcomer” center, conceptualized and piloted by Indianapolis Public Schools, that designates it as a refugee and immigrant-friendly institution.
+
+Sullivan “reinvented” its identity as a destination school for resettled refugees after several years of low attendance and graduation rates, poor academic performance, and violence. The high school is a fascinating case study when attempting to answer the question posed at the beginning of this section: how does Chicago reconcile with its multiple vulnerable populations without privileging one over the other?
+
+
 ![Sullivan](http://www.chicagomag.com/Chicago-Magazine/June-2017/Welcome-to-Refugee-High/hajar.jpg)
 
 
@@ -341,7 +351,7 @@ L.marker([42.0028, -87.66891]).actions.addRemove(S.map)
 - zoom: 8
 L.marker([41.7795, -87.7808]).actions.addRemove(S.map)
 ```
-In addition to Illinois’ current legal framework, a proposed bill entitled The VOICES Act (SB32) is pending. The bill would mitigate the possibility of deportation for immigrants who report domestic violence or other violent crimes to the police. CityKey, Chicago’s municipal ID, is now accepted as a form of identification for voter registration, and also works as a library and transit card. The organizations listed previously continue their operations in spite of increasing federal pressure on Chicago to comply with the Department of Justice. 
+In addition to Illinois’ current legal framework, a proposed bill entitled The VOICES Act (SB32) is pending. The bill would mitigate the possibility of deportation for immigrants who report domestic violence or other violent crimes to the police. CityKey, Chicago’s municipal ID, is now accepted as a form of identification for voter registration, and also works as a library and transit card. The sites marked on this map continue their operations in spite of increasing federal pressure on Chicago to comply with ICE.
 
 
 #**Oakland, U.S.A.**
