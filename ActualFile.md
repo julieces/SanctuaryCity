@@ -268,6 +268,12 @@ As the largest city in the Midwest, Chicago is uniquely positioned to be an exam
 - zoom: 10
 L.marker([41.9682, -87.7162]).actions.addRemove(S.map)
 ```
+World Relief is an international organization that partners with churches to offer a range of services based on the needs of the location. World Relief Chicago focuses specifically on refugee resettlement, and has assisted in resettling over 15,000 refugees since its 1980 inception.
+
+Services include cultural adjustment case management, employment counseling, job placement, English education, reunification assistance, and medical case management, all offered through the organization’s partnerships with providers across the city. Designated medical services for refugees and immigrants without papers are sparse—no health services in the Illinois Refugee Resettlement Services FY17 Report are based in Chicago proper—making World Relief’s medical case management a critical service in the city. 
+
+A notable aspect of this organization is its relationship to the U.S. Department of State, with whom it is contracted to partake in the resettlement process. It is also worth noting the success of World Relief—a Christianity-affiliated organization—in relation to similar organizations affiliated with other faiths, such as Hebrew Immigrant Aid Society, which was forced to end its refugee resettlement program after the State Department severed contracts with resettlement organizations who placed under 100 refugees per year. 
+
 ![World Relief](https://www.global-diaspora.com/wp-content/uploads/2015/12/WR_RGB_POS_FLUSH_R.jpg)
 
 #**RefugeeOne**
@@ -276,7 +282,10 @@ L.marker([41.9682, -87.7162]).actions.addRemove(S.map)
 - zoom: 10
 L.marker([41.9687, -87.6592]).actions.addRemove(S.map)
 ```
-This is about RefugeeOne.
+RefugeeOne offers similar services to World Relief, with additional youth programming and targeted women’s services, including a mentorship program in which resettled women are matched with volunteer mentors who help them adjust to daily life in their new community. Unlike World Relief, RefugeeOne is a secular organization and is lead by a former Armenian refugee named Melineh Kano who was resettled by the agency in 1984. 
+
+The organization is the largest of its kind in Illinois, and has successfully resettled over 17,000 refugees while priding itself on helping those resettled to establish self-sufficiency in a general span of six to nine months.
+
 ![RefugeeOne](https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/175579_420451894675535_886040580_o.jpg?_nc_cat=0&oh=5abfe4c54551708e7adc2cec23883ee5&oe=5B597AB9)
 
 #**Eli's Cheesecake Company**
@@ -317,6 +326,13 @@ L.marker([42.0028, -87.66891]).actions.addRemove(S.map)
 ```
 ![Sullivan](http://www.chicagomag.com/Chicago-Magazine/June-2017/Welcome-to-Refugee-High/hajar.jpg)
 
+#**Next Steps: Chicago**
+```
+- center: [41.7795, -87.7808]
+- zoom: 8
+L.marker([41.7795, -87.7808]).actions.addRemove(S.map)
+```
+In addition to Illinois’ current legal framework, a proposed bill entitled The VOICES Act (SB32) is pending. The bill would mitigate the possibility of deportation for immigrants who report domestic violence or other violent crimes to the police. The organizations listed previously continue their operations in spite of increasing federal pressure on Chicago to comply with the Department of Justice. 
 
 
 #**Oakland, U.S.A.**
