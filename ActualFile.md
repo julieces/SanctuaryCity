@@ -268,7 +268,7 @@ As the largest city in the Midwest, Chicago is uniquely positioned to be an exam
 - zoom: 10
 L.marker([41.9682, -87.7162]).actions.addRemove(S.map)
 ```
-This is about RefugeeOne.
+![World Relief](https://www.global-diaspora.com/wp-content/uploads/2015/12/WR_RGB_POS_FLUSH_R.jpg)
 
 #**RefugeeOne**
 ```
@@ -277,7 +277,7 @@ This is about RefugeeOne.
 L.marker([41.9687, -87.6592]).actions.addRemove(S.map)
 ```
 This is about RefugeeOne.
-
+![RefugeeOne](https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/175579_420451894675535_886040580_o.jpg?_nc_cat=0&oh=5abfe4c54551708e7adc2cec23883ee5&oe=5B597AB9)
 
 #**Eli's Cheesecake Company**
 ```
@@ -287,6 +287,9 @@ L.marker([41.9589, -87.7944]).actions.addRemove(S.map)
 ```
 BLAH.
 
+![Elis1](https://media.npr.org/assets/img/2016/12/23/cheesecake-1-fea0024d797c2e67f14e46de36119c7859e76324-s1500-c85.jpg)
+![Elis2](https://media.npr.org/assets/img/2016/12/23/cheesecake-2-61868158294004de322222f32f0b86e194ae2768-s1500-c85.jpg)
+
 
 #**Loom Chicago**
 ```
@@ -295,6 +298,8 @@ BLAH.
 L.marker([41.9697, -87.6558]).actions.addRemove(S.map)
 ```
 BLAH.
+![Loom1](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/1456536_331348543669724_1520435754_n.jpg?_nc_cat=0&oh=90516bbed14823c418692266baf1b7e5&oe=5B8FD229)
+![Loom2](https://static1.squarespace.com/static/52858730e4b0115df20f4d63/t/55330906e4b0b404bf34b639/1444352256979/0.jpeg?format=2500w)
 
 #**Chicago Teacher's Union**
 ```
@@ -302,7 +307,7 @@ BLAH.
 - zoom: 10
 L.marker([41.8875, -87.6754]).actions.addRemove(S.map)
 ```
-BLAH.
+![CTU](https://upload.wikimedia.org/wikipedia/en/e/e4/Chicago_Teachers_Union.jpg)
 
 #**Roger C. Sullivan High School**
 ```
@@ -310,7 +315,7 @@ BLAH.
 - zoom: 10
 L.marker([42.0028, -87.66891]).actions.addRemove(S.map)
 ```
-BLAH.
+![Sullivan](http://www.chicagomag.com/Chicago-Magazine/June-2017/Welcome-to-Refugee-High/hajar.jpg)
 
 
 
