@@ -296,6 +296,7 @@ L.marker([41.9589, -87.7944]).actions.addRemove(S.map)
 ```
 Eli’s Cheesecake is a popular Chicago restaurant and bakery that is most famous for its namesake offering. 15 percent of its workforce is comprised of resettled, highly-skilled refugees from countries including Iraq, Bhutan, Kosovo, Congo, and Myanmar. Currently, the bakery is preparing to accept resettled Syrian refugees. Elias Kasongo, the company’s purchasing manager and a board member of RefugeeOne, began working at Eli’s in 1994 as a dishwasher before attaining a business degree at Northeastern Illinois University and multiple promotions within the company. Other Chicago-based businesses have adopted similar practices using the model employed by Eli’s.
 
+Eli's almost exclusively hires "skilled" workers, which, while actively pushing against the false perception of refugees as lacking skill, also displays the plight of resettled refugees who may be considered "unskilled."
 
 ![Elis1](https://media.npr.org/assets/img/2016/12/23/cheesecake-1-fea0024d797c2e67f14e46de36119c7859e76324-s1500-c85.jpg)
 ![Elis2](https://media.npr.org/assets/img/2016/12/23/cheesecake-2-61868158294004de322222f32f0b86e194ae2768-s1500-c85.jpg)
@@ -307,8 +308,14 @@ Eli’s Cheesecake is a popular Chicago restaurant and bakery that is most famou
 - zoom: 10
 L.marker([41.9697, -87.6558]).actions.addRemove(S.map)
 ```
-BLAH.
+Loom Chicago is an offshoot of Catholic Charities of the Archdiocese of Chicago, another Christian service organization in the city that offers resettlement services. Volunteers at Loom impart craft skills—jewelry-making, knitting, and weaving among them—to resettled women, or, as Loom refers to them, artisans. The artisans also offer craft workshops that are open to the public.
+Revenue from the products is split 75/25; 75 percent goes to the artisans, while the remaining 25 goes back to Loom for supply purchases. According to the company’s website, the current employees are from Nepal, Bhutan, Afghanistan, Sudan, Uganda, Syria, and Iraq.
+
+The skillset of Loom’s artisans is broad and diverse, but is typically viewed as traditional women’s work. It could be said that the organization reinforces gender roles by only hiring women. The converse of this argument is that Loom offers a safe space for women in vulnerable women to make a material contribution and turn a profit within a realm with which they are potentially already familiar.
+
+
 ![Loom1](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/1456536_331348543669724_1520435754_n.jpg?_nc_cat=0&oh=90516bbed14823c418692266baf1b7e5&oe=5B8FD229)
+
 ![Loom2](https://static1.squarespace.com/static/52858730e4b0115df20f4d63/t/55330906e4b0b404bf34b639/1444352256979/0.jpeg?format=2500w)
 
 #**Chicago Teacher's Union**
