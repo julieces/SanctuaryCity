@@ -254,7 +254,7 @@ Chicago’s history as a Sanctuary City dates back to the 1980s, when the Wellin
 
 Seven years later, former mayor Richard M. Daley signed an executive order guaranteeing people of all nationalities and those without citizenship “fair and equal access” to employment, benefits, and licenses. This was cited by the Chicago Tribune as the moment when Mayor Daley adopted “Washington’s Sanctuary Stance.” This policy of sanctuary led to a 2006 ordinance aimed to give all Chicagoans access “to the services, opportunities, and protection it provides or administers.”
 
-From 2006 onward, Chicago emerged as a well-known sanctuary city in the United States, which Mayor Rahm Emanuel affirmed when he called it “the most immigrant-friendly city in the country.” The city issued a 2012 ‘Welcoming City’ ordinance, which prohibited police from detaining people based on immigration status, before creating 2016 municipal ID program that gave all Chicagoans an official identification that did not contain nationality or immigration status. These actions have made Chicago a target of the Trump administration, and refuses to cooperate with the U.S. Department of Justice’s mandate for sanctuary cities to assist immigration agents.
+From 2006 onward, Chicago emerged as a well-known sanctuary city in the United States, which Mayor Rahm Emanuel affirmed when he called it “the most immigrant-friendly city in the country.” The city issued a 2012 ‘Welcoming City’ ordinance, which prohibited police from detaining people based on immigration status, before creating 2016 municipal ID program (CityKey) that gave all Chicagoans an official identification that did not contain nationality or immigration status. These actions have made Chicago a target of the Trump administration, and refuses to cooperate with the U.S. Department of Justice’s mandate for sanctuary cities to assist immigration agents.
 
 As the largest city in the Midwest, Chicago is uniquely positioned to be an example to other cities in the area. The city is also located amidst several small Midwestern towns in states like Michigan and Iowa who resettle multiple refugees while refusing the label of “sanctuary city.” Chicago’s seemingly pro-immigration policies must also be examined in the context of its degradation by the current administration as a city wrought with violence. How much of Chicago’s refugee-friendly stance is to restore its public image, and whether this comes at the expense of other marginalized communities in the city, should be considered when studying the its status as a sanctuary. 
 
@@ -294,7 +294,8 @@ The organization is the largest of its kind in Illinois, and has successfully re
 - zoom: 10
 L.marker([41.9589, -87.7944]).actions.addRemove(S.map)
 ```
-BLAH.
+Eli’s Cheesecake is a popular Chicago restaurant and bakery that is most famous for its namesake offering. 15 percent of its workforce is comprised of resettled, highly-skilled refugees from countries including Iraq, Bhutan, Kosovo, Congo, and Myanmar. Currently, the bakery is preparing to accept resettled Syrian refugees. Elias Kasongo, the company’s purchasing manager and a board member of RefugeeOne, began working at Eli’s in 1994 as a dishwasher before attaining a business degree at Northeastern Illinois University and multiple promotions within the company. Other Chicago-based businesses have adopted similar practices using the model employed by Eli’s.
+
 
 ![Elis1](https://media.npr.org/assets/img/2016/12/23/cheesecake-1-fea0024d797c2e67f14e46de36119c7859e76324-s1500-c85.jpg)
 ![Elis2](https://media.npr.org/assets/img/2016/12/23/cheesecake-2-61868158294004de322222f32f0b86e194ae2768-s1500-c85.jpg)
@@ -326,13 +327,14 @@ L.marker([42.0028, -87.66891]).actions.addRemove(S.map)
 ```
 ![Sullivan](http://www.chicagomag.com/Chicago-Magazine/June-2017/Welcome-to-Refugee-High/hajar.jpg)
 
+
 #**Next Steps: Chicago**
 ```
 - center: [41.7795, -87.7808]
 - zoom: 8
 L.marker([41.7795, -87.7808]).actions.addRemove(S.map)
 ```
-In addition to Illinois’ current legal framework, a proposed bill entitled The VOICES Act (SB32) is pending. The bill would mitigate the possibility of deportation for immigrants who report domestic violence or other violent crimes to the police. The organizations listed previously continue their operations in spite of increasing federal pressure on Chicago to comply with the Department of Justice. 
+In addition to Illinois’ current legal framework, a proposed bill entitled The VOICES Act (SB32) is pending. The bill would mitigate the possibility of deportation for immigrants who report domestic violence or other violent crimes to the police. CityKey, Chicago’s municipal ID, is now accepted as a form of identification for voter registration, and also works as a library and transit card. The organizations listed previously continue their operations in spite of increasing federal pressure on Chicago to comply with the Department of Justice. 
 
 
 #**Oakland, U.S.A.**
