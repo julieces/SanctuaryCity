@@ -360,23 +360,40 @@ In addition to Illinois’ current legal framework, a proposed bill entitled The
 - zoom: 7
 L.marker([37.7653, -122.2256]).actions.addRemove(S.map)
 ```
-This part is about Oakland.
+![Oakland](https://media.bizj.us/view/img/4730031/oakland-skyline-8*1200xx5184-2916-0-270.jpg)
 
-#**Oakland, U.S.A.**
+##**Statistics**
+________
+**Total Refugee Arrivals in Alameda County (1995-2016) :** 6,431
+
+Where are these refugees from?
+
+**Syria:** 44
+
+**Vietnam:** 1,609 
+
+**Bosnia & Herzegovina:** 855
+
+**Myanmar:** 531
+
+**Afghanistan:** 457
+
+**Russia:** 411
+
+
+#**Why Oakland, U.S.A.?**
 ```
 - center: [37.7653, -122.2256]
 - zoom: 10
 L.marker([37.7653, -122.2256]).actions.addRemove(S.map)
 ```
-This part is about Oakland.
+![Oakland 3](https://s.hdnux.com/photos/30/70/76/6524849/3/rawImage.jpg)
 
-#**East Bay Refugee Forum**
-```
-- center: [37.7994, -122.2791]
-- zoom: 12
-L.marker([37.7994, -122.2791]).actions.addRemove(S.map)
-```
-This part is about Oakland.
+Oakland has undoubtedly earned a reputation within the United States for its status and actions as a Sanctuary City. Oakland City government has taken numerous actions to defy U.S Immigration and Customs Enforcement including forbidding city employees from providing information to the agency and also the Mayor of Oakland, Libby Schaaf, issuing a preemptive warning to residents about a large ICE raid a few months ago. 
+
+As far as U.S. Sanctuary Cities go, Oakland is one of the most progressive which is why it is an interesting city to analyze and also take note of its shortcomings. Working within the federal immigration framework, the United States already accepts an extremely small number of refugees. California actually had the highest resettled refugee population among the 50 states in 2016, with almost 8,000 refugees. However, according to arrivals data, Alameda County welcomes significantly less refugees than other counties such as Los Angeles, Orange, Sacramento, San Diego and Santa Clara. The county that refugees are resettled to is dependent on a number of factors including the existing refugee populations, cost of living and resources available. 
+
+The greater Bay Area inluding Oakland has a generally high cost of living and is currently having an affordable housing crisis with some of the highest housing prices in the country. This poses a large barrier for refugee resettlement organizations trying to set up refugees with permanent and decent accommodations. While local government and NGOs are doing their best to create opportunities and provide support to refugees, asylees and to the greater immigrant population, many still face hardship due to high costs of living, discrimination and difficulties acclimating to their new home. 
 
 #**Alameda County Social Services Office**
 ```
@@ -384,7 +401,21 @@ This part is about Oakland.
 - zoom: 12
 L.marker([37.8105, -122.2728]).actions.addRemove(S.map)
 ```
-This part is about Oakland.
+![ACSS](http://acgovcares.org/wp-content/uploads/2015/03/acgov-cares-logo.png)
+
+The California Dept. of Social Services is a state government agency that also devolves into county specific social services. When refugees and asylees are resettled, the national voluntary agencies or VOLAGs that are sponsoring them are supposed to be responsible for providing financial assistance in the form of shelter and basic necessities. Often, these organizations are severely underfunded so it often difficult to provide everything a family/ individual wants or needs. The County is responsible for what the VOLAG cannot offer to refugees or asylees through state programs including Refugee Cash Assistance for single adults or couples without children, Medi-Cal, CalWORKS (California Work Opportunity and Responsibility to Kids), and CalFresh. However, in order to be eligible for this financial assistance an individual needs to be either active in an employment training program or be employed which can be difficult for many refugees starting out in Oakland and just learning how to speak English.
+
+"Eligible individuals may receive RCA, Medi-Cal and CalFresh during the first 8 months in the United States."
+
+#**East Bay Refugee Forum**
+```
+- center: [37.7994, -122.2791]
+- zoom: 12
+L.marker([37.7994, -122.2791]).actions.addRemove(S.map)
+```
+![EBRF](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/20476392_1395232503888254_2773606763109048797_n.jpg?_nc_cat=0&oh=e8ba71219c54692409ea645bd0079d3f&oe=5B56B03C)
+
+Founded in 1978, the East Bay Refugee Forum is a coalition of over 30 different refugee oriented organizations and government agencies in the East Bay Area. The EBRF provides various resources to refugees, asylees, SIV holders and others who fled their home country in fear of persecution. Resources include employment training programs, English education classes, pro bono legal services and access to health services. In 2018, there are six scheduled meetings for the EBRF for the organizations and agencies involved to plan and coordinate their service efforts to provide the most conducive environment to supporting refugees and asylees. Having government agencies such as Alameda County Social Services Agency  and Public Health Department coordinate with non-profit organizations is a significant in creating an open dialogue to government services understanding what refugees and asylees are experiencing and what can be improved.
 
 #**Oakland Civic Center**
 ```
@@ -392,7 +423,11 @@ This part is about Oakland.
 - zoom: 12
 L.marker([37.8105, -122.2728]).actions.addRemove(S.map)
 ```
-This part is about Oakland.
+![ID] (http://www.oaklandcityid.com/uploads/4/2/1/9/4219226/new-oaklandid-site-mock-up_orig.png)
+
+Oakland has its own municipal ID system that is regarded as a valid form of identification to obtain a drivers licence and accessing medical services from healthcare providers. It can also be used to register for community college or be a valid form of photo ID for law enforcement. The documents of valid identification to obtain this Oakland City ID include a series of immigration documents that can be current or expired. This is an extremely useful resource for those who are undocumented as well as those who need another form of identification at short notice and for the price of only $15.
+
+
 
 #**International Rescue Committee Office**
 ```
