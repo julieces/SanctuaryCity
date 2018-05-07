@@ -224,7 +224,7 @@ Once asylum seekers have been preregistered in Germany, they are sent to recepti
 
 Life in Germany remains a struggle for many of the recent arrivals after moving out of the reception centers. More than 1 million asylum-seekers reached the country in 2015 and at times more than 10,000 people were arriving daily. However, only around 16 percent of refugees are employed, according to official data published in September of 2015.
 
-While refugees are not getting much help in finding job opportunities from the government, the organizations mentioned are attempting to fill in the gaps for them to integrate into the German society. Most of the organizations that provide help for refugees in Berlin are either educational, resourceful, or constructive. They not only teach refugees new skills that can contribute to the development of Germany but also allowing them to have the agency to feel that they are valuable to the German society.
+While refugees are not getting much help in finding job opportunities from the government, the organizations mentioned are attempting to fill in the gaps for them to integrate into the German society. Most of the organizations that provide help for refugees in Berlin are educational, resourceful, or constructive. They not only teach refugees new skills that can contribute to the development of Germany they also allow them to have the agency to feel that they are valuable to the German society.
 
 
 #**Chicago, U.S.A.**
