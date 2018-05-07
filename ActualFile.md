@@ -428,14 +428,16 @@ L.marker([37.8105, -122.2728]).actions.addRemove(S.map)
 Oakland has its own municipal ID system that is regarded as a valid form of identification to obtain a drivers licence and accessing medical services from healthcare providers. It can also be used to register for community college or be a valid form of photo ID for law enforcement. The documents of valid identification to obtain this Oakland City ID include a series of immigration documents that can be current or expired. This is an extremely useful resource for those who are undocumented as well as those who need another form of identification at short notice and for the price of only $15.
 
 
-
 #**International Rescue Committee Office**
 ```
 - center: [37.8089, -122.2530]
 - zoom: 12
 L.marker([37.8089, -122.2530]).actions.addRemove(S.map)
 ```
-This part is about Oakland.
+![IRC](https://help.rescue.org/files/irc/upload/20111216_ecarroll_holidaygiving_phoenix_014.jpg)
+
+The International Rescue Commmittee has multiple regional offices in the U.S. including six in California. As a prominent international organization, the IRC conducts a lot of work in resettling refugees in Oakland along with other more local non-profit organizations. One of the significiant assistance programs provided by IRC is the Soft Landing Fund, which provides rent and utilities support to new refugee and asylees that have arrived in Northern California in the past six months. 
+
 
 #**Bay Area Legal Aid**
 ```
