@@ -156,10 +156,6 @@ L.marker([52.5830, 13.3594]).actions.addRemove(S.map)
 
 The right to asylum is a constitutional right in Germany and granted to everyone who flees political persecution. 
 
-Yet, there are adjustments made due to the current refugee crisis.
-
-Despite these adjustments, there are many organizations in Berlin that help refugees integrating into the German society as well as getting jobs and proper education.
-
 **General Rules and Norms for Admission of Refugees and Handling Refugee Claims**
 
 If the applicant was the victim of political persecution, he or she may be granted political asylum under article 16a of the Basic Law. 
@@ -168,7 +164,7 @@ If the applicant was the victim of political persecution, he or she may be grant
 
 A refugee can either register as an asylum-seeker at the border or inside the country. The authorities then direct him or her to the closest reception facility. 
 
-**Adjustments or Amendments to the Refugee Handling Procedure Due to the Current Refugee Crisis**
+**Policies for Handling Refugees**
 
 Several amendments to current laws have been adopted in recent months due to the refugee crisis.  
 
@@ -177,10 +173,6 @@ On August 1, 2015, the Act to Redefine the Right to Stay and the Termination of 
 On October 24, 2015, the Act on the Acceleration of Asylum Procedures entered into force. The Act amended several laws in order to accelerate the asylum process.
 
 On November 1, 2015, the Act to Improve Housing, Care, and Treatment of Foreign Minors and Adolescents entered into force. Its goal is to improve the situation of young unaccompanied refugees and provide them with appropriate care.
-
-On February 3, 2016, the German government agreed on a set of stricter asylum measures (Asylum Package II), which will now be debated by the German Bundestag. The Asylum Package II would suspend family reunification for refugees with subsidiary protection status for a period of two years; decrease asylees’ monthly cash benefits; facilitate deportation; establish a new Federal Police unit to help procure replacement documents; improve the safety of refugee minors; and designate Algeria, Morocco, and Tunisia as safe countries of origin.
-
-ALso, Angela Merkel agreed to limit refugees and control became the new core of Germany’s refugee policy in 2017. She has agreed to limit the number of asylum seekers allowed to enter Germany each year to 200,000.
 
 
 #**Kiron**
@@ -192,7 +184,7 @@ L.marker([52.5185, 13.3954]).actions.addRemove(S.map)
 
 ![Germany](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/31280116_1901071603259460_6852752816751621647_n.jpg?_nc_cat=0&oh=3e936522aa02df783ea9ea0366b61927&oe=5B565C71)
 
-Known as Kiron University, it is an educational institution in Berlin that enables refugees'access to higher education and successful learning through digital solutions. Opened in 2015, the unversity runs all of its courses online and students have to submit proof of their refugee status in order to enroll. The university puts courses online by existing universities such as Yale, Harvard, and Cambridge, providing a wide range of courses availabe for refugees. 
+Known as Kiron University, it is an educational institution in Berlin that enables refugees'access to successful learning through digital solutions. Opened in 2015, the unversity runs all of its courses online and students have to submit proof of their refugee status in order to enroll. The university puts courses online by existing universities such as Yale, Harvard, and Cambridge, providing a wide range of courses availabe for refugees. The goal for the Kiron University is to allow refugees to access higher education so that they can have more job oppportunities. 
 
 **[MORE INFO HERE](https://kiron.ngo)**
 
@@ -204,7 +196,7 @@ L.marker([52.5151, 13.4102]).actions.addRemove(S.map)
 ```
 ![Germany](https://cdn.opendemocracy.net/files/imagecache/wysiwyg_imageupload_lightbox_preset/wysiwyg_imageupload/541754/15252706_1361926133827955_7225644671359543484_o.jpg)
 
-Migration Hub is a network of social entrepreneurs and organisations working in the field of migration, refugee support and assimilation for people who are fleeing for their lives from the Middle East and Africa. Its aim is to create an environment where refugee aid organisations can congregate and collaborate with one another to figure out ways to improve the lives of refugees in Berlin. This co-working collective is located on Spreewerkstätten, and the landlord who owns the building offered the office space rent-free. The ultimate goal at Migration Hub is to mentor refugees, connecting them with organisations working in the sector and encouraging collaboration, knowledge exchange and best practice sharing across the world. 
+Migration Hub is a network of social entrepreneurs and organizations working in the field of migration, refugee support and assimilation for people who are fleeing for their lives from the Middle East and Africa. Its aim is to create an environment where refugee aid organizations can congregate and collaborate with one another to figure out ways to improve the lives of refugees in Berlin. The ultimate goal at Migration Hub is to mentor refugees, connecting them with local organizations working in the sector and encouraging collaboration, knowledge exchange and best practice sharing across the world. 
 
 **[MORE INFO HERE](https://www.migrationhub.network)**
 
@@ -216,7 +208,7 @@ L.marker([52.4899, 13.4252]).actions.addRemove(S.map)
 ```
 ![Germany](https://okayfactor.com/wp-content/uploads/2015/08/GiveSometingBackToBerlin_Img.jpg)
 
-Give Something Back to Berlin focuses on organizing a multitude of different grassroot volunteer efforts and intercultural activities. The no-frills site functions as an interactive database that connects volunteers with organisations in need of various skilled and unskilled helpers. The founder stresses the importance of fostering connections between refugees and volunteers as well as engaging refugees in developing solutions for the current refugee crisis.
+Give Something Back to Berlin focuses on organizing a multitude of different grassroot volunteer efforts and intercultural activities. The no-frills site functions as an interactive database that connects volunteers with organisations in need of various skilled and unskilled helpers. With concerns over refugee integration in Germany, the organization stresses the importance of fostering connections between refugees and volunteers as well as engaging refugees in developing solutions for the current refugee crisis.
 
 **[MORE INFO HERE](http://gsbtb.org/#!/)**
 
@@ -228,7 +220,7 @@ L.marker([52.4962, 13.4218]).actions.addRemove(S.map)
 ```
 ![Germany](https://www.cucula.org/wp-content/uploads/2016/02/12485836_892998780817439_7604493599053193873_o.jpg)
 
-CUCULA takes in refugees as trainees and teaches them craft and design skills, which they can use to find work upon completing the program. Additionally, CUCULA is set up to aid the refugees during their visa application processes and to provide them housing in the interim. The project is funded through the profits yielded from selling the contemporary furniture that the refugees themselves create at the company.
+CUCULA takes in refugees as trainees and teaches them craft and design skills, which they can use to find work upon completing the program. Additionally, CUCULA is set up to aid the refugees during their visa application processes and to provide them housing in the interim. The project is funded through the profits yielded from selling the contemporary furniture that the refugees themselves create at the company. The organization provides opportunities for refugees to learn new skills which the German society needs. It helps them to have more access to job opportunities as well as to integrate in the German society.
 
 **[MORE INFO HERE](https://www.cucula.org/en/)**
 
@@ -240,7 +232,7 @@ L.marker([52.5194, 13.3988]).actions.addRemove(S.map)
 ```
 ![Germany](https://www.preussischer-kulturbesitz.de/fileadmin/user_upload/images/mediathek/bildergalerien/galerie_dossier_heimat/galerie_multaka/rp/bildergalerie_multaka_guides1_smb_lb.jpg)
 
-The Pergamon Museum contains one of the largest collections of Islamic art originating from places like present-day Syria and Iraq. It would be pretty difficult to ignore the fact that thousands flock to the museum to enjoy these exquisite items while the countries themselves are being destroyed. Thus, the Pergamon is offering refugees the exclusive chance to become tour guides at the museum as a means of fostering richer cultural interchange. The tours are also offered to other refugees in their native languages thanks to the tour guides.
+The Pergamon Museum contains one of the largest collections of Islamic art originating from places like present-day Syria and Iraq. It would be pretty difficult to ignore the fact that thousands flock to the museum to enjoy these exquisite items while the countries themselves are being destroyed. Thus, the Pergamon is offering refugees the exclusive chance to become tour guides at the museum as a means of fostering richer cultural interchange. The tours are also offered to other refugees in their native languages thanks to the tour guides. This program not only allows refugees to keep their cultural heritage in Germany but also bring them closer with the locals.
 
 **[MORE INFO HERE](https://www.smb.museum/en/museums-institutions/pergamonmuseum/home.html)**
 
@@ -256,19 +248,28 @@ Refugees on Rails is an initiative that teaches the newcomers how to code. In do
 
 **[MORE INFO HERE](http://refugeesonrails.org/en/)**
 
-#**How well have refugees integrated in Germany?**
+#**Next Steps: Berlin**
 ```
 - center: [52.5830, 13.3594]
 - zoom: 6
 L.marker([52.5830, 13.3594]).actions.addRemove(S.map)
 ```
+![Germany](https://www.stilinberlin.de/wp/wp-content/uploads/2016/03/25301292683_06a7629165_o-905x599.jpg)
 
+
+There are adjustments made due to the current refugee crisis.
+
+On February 3, 2016, the German government agreed on a set of stricter asylum measures (Asylum Package II), which will now be debated by the German Bundestag. The Asylum Package II would suspend family reunification for refugees with subsidiary protection status for a period of two years; decrease asylees’ monthly cash benefits; facilitate deportation; establish a new Federal Police unit to help procure replacement documents; improve the safety of refugee minors; and designate Algeria, Morocco, and Tunisia as safe countries of origin.
+
+ALso, Angela Merkel agreed to limit refugees and control became the new core of Germany’s refugee policy in 2017. She has agreed to limit the number of asylum seekers allowed to enter Germany each year to 200,000.
+
+Despite these adjustments, there are many organizations in Berlin that help refugees integrating into the German society as well as getting jobs and proper educations.
+
+While refugees are not getting much help in finding job opportunities from the government, the organizations mentioned are attempting to fill in the gaps for them to integrate into the German society. Most of the organizations that provide help for refugees in Berlin are educational, resourceful, or constructive. They not only teach refugees new skills that can contribute to the development of Germany they also allow them to have the agency to feel that they are valuable to the German society.
 
 Once asylum seekers have been preregistered in Germany, they are sent to reception centres, often former army barracks with several hundred beds. They stay in these centerss for up to six months or until their application is decided on. After the application process, they are generally sent to group housing or are allocated private apartments. About 60 per cent of Germany’s refugees are living in reception centers or collective accommodation at the end of 2015 (the latest data available). 
 
 Life in Germany remains a struggle for many of the recent arrivals after moving out of the reception centers. More than 1 million asylum-seekers reached the country in 2015 and at times more than 10,000 people were arriving daily. However, only around 16 percent of refugees are employed, according to official data published in September of 2015.
-
-While refugees are not getting much help in finding job opportunities from the government, the organizations mentioned are attempting to fill in the gaps for them to integrate into the German society. Most of the organizations that provide help for refugees in Berlin are educational, resourceful, or constructive. They not only teach refugees new skills that can contribute to the development of Germany they also allow them to have the agency to feel that they are valuable to the German society.
 
 
 #**Chicago, U.S.A.**
