@@ -267,9 +267,7 @@ Despite these adjustments, there are many organizations in Berlin that help refu
 
 While refugees are not getting much help in finding job opportunities from the government, the organizations mentioned are attempting to fill in the gaps for them to integrate into the German society. Most of the organizations that provide help for refugees in Berlin are educational, resourceful, or constructive. They not only teach refugees new skills that can contribute to the development of Germany they also allow them to have the agency to feel that they are valuable to the German society.
 
-Once asylum seekers have been preregistered in Germany, they are sent to reception centres, often former army barracks with several hundred beds. They stay in these centerss for up to six months or until their application is decided on. After the application process, they are generally sent to group housing or are allocated private apartments. About 60 per cent of Germany’s refugees are living in reception centers or collective accommodation at the end of 2015 (the latest data available). 
-
-Life in Germany remains a struggle for many of the recent arrivals after moving out of the reception centers. More than 1 million asylum-seekers reached the country in 2015 and at times more than 10,000 people were arriving daily. However, only around 16 percent of refugees are employed, according to official data published in September of 2015.
+With the current refugee crisis and change of refugee policies in Germany, these organizations in Berlin have to put in extra effort to create a safe space for new arrivals as they are under more surveillance and control now. Many people are also worried about refugees who do not have the privilege escape wars and diseasters. Hopefully more and more people would see the benefits of the refugees who have came to Germany and have integrated and accept more of them that are trying to escape their home countries for their lives.
 
 
 #**Chicago, U.S.A.**
