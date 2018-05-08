@@ -5,7 +5,7 @@
 ```
 
 #**What's in a Name?**
-**What Makes a Sanctuary City a Sanctuary City**
+**Understanding What Makes a Sanctuary City a Sanctuary City**
 
 by Isa, Anna, Norah, & Sandra
 ```
@@ -410,9 +410,12 @@ Sullivan “reinvented” its identity as a destination school for resettled ref
 #**Next Steps: Chicago**
 ```
 - center: [41.7795, -87.7808]
-- zoom: 8
+- zoom: 5
 L.marker([41.7795, -87.7808]).actions.addRemove(S.map)
 ```
+
+![BLA](https://assets.dnainfo.com/photo/2017/1/1485786839-289535/extralarge.jpg) 
+
 In addition to Illinois’ current legal framework, a proposed bill entitled The VOICES Act (SB32) is pending. The bill would mitigate the possibility of deportation for immigrants who report domestic violence or other violent crimes to the police. CityKey, Chicago’s municipal ID, is now accepted as a form of identification for voter registration, and also works as a library and transit card. The sites marked on this map continue their operations in spite of increasing federal pressure on Chicago to comply with ICE.
 
 
@@ -444,7 +447,7 @@ Where are these refugees from?
 **Russia:** 411
 
 
-#**Why Oakland, U.S.A.?**
+#**Oakland, U.S.A.**
 ```
 - center: [37.7653, -122.2256]
 - zoom: 10
@@ -548,5 +551,16 @@ Pro bono legal aid such as Bay Area Legal Aid and other similar legal organizati
 **[MORE INFO HERE](https://baylegal.org/)**
 
 
-#**What's next?**
+#**Next Steps: Oakland**
+```
+- center: [37.7653, -122.2256]
+- zoom: 7
+L.marker([37.7653, -122.2256]).actions.addRemove(S.map)
+```
+
+![BLA](https://media.nbcbayarea.com/images/1200*675/GettyImages-632928850-JFK-protests.jpg) 
+
+Oakland officials have made it clear that they are not going to back down from opposing the Trump administration's dangerous immigration policies and continue to demonstrate their dedication to protecting immigrants, such as a City Council ordinance that was recently passed that requires review by City Council and the Privacy Advisory Commission of all surveillance technology used by law enforcement. Alameda County and a few other California counties have also recently denied contracts with an automatic license plate reader company that has provided information to ICE. A current threat to Oakland's status as a sanctuary city is the current lawsuit from the Justice Department against SB 54 which is the California state law for forbidding direct law enforcement cooperation with ICE. Unfortunately, Oakland and the whole state of California must operate within the federal framework and it will remain to be seen whether the sanctuary law will be defended in court. In the long term, Oakland as a city must work to create a supportive environment for smaller refugee communities such as the Syrian population because it is necessary for a faster integration process since the cost of living in Oakland is so high.
+
+#**Moving Forward**
 Our hope is that as resources for displaced peoples continue to grow, so will this map. As more cities and destinations are added, perhaps the definition of what it means to be a "Sanctuary City" will become expanded and clarified, making it a genuine tool for more inclusive policies and community-building.
