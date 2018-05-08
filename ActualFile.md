@@ -208,7 +208,7 @@ CUCULA takes in refugees as trainees and teaches them craft and design skills, w
 - zoom: 12
 L.marker([52.5194, 13.3988]).actions.addRemove(S.map)
 ```
-![Germany](http://www.news1130.com/wp-content/blogs.dir/sites/9/2015/12/17/XMSC103-1216_2015_163710_hd.jpg)
+![Germany](https://www.preussischer-kulturbesitz.de/fileadmin/user_upload/images/mediathek/bildergalerien/galerie_dossier_heimat/galerie_multaka/rp/bildergalerie_multaka_guides1_smb_lb.jpg)
 
 The Pergamon Museum contains one of the largest collections of Islamic art originating from places like present-day Syria and Iraq. It would be pretty difficult to ignore the fact that thousands flock to the museum to enjoy these exquisite items while the countries themselves are being destroyed. Thus, the Pergamon is offering refugees the exclusive chance to become tour guides at the museum as a means of fostering richer cultural interchange. The tours are also offered to other refugees in their native languages thanks to the tour guides.
 
