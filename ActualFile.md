@@ -473,6 +473,9 @@ The California Dept. of Social Services is a state government agency that also d
 
 "Eligible individuals may receive RCA, Medi-Cal and CalFresh during the first 8 months in the United States."
 
+**[MORE INFO HERE](https://www.alamedasocialservices.org/public/index.cfm)**
+
+
 #**East Bay Refugee Forum**
 ```
 - center: [37.7994, -122.2791]
