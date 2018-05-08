@@ -150,6 +150,8 @@ _________________
 - zoom: 9
 L.marker([52.5830, 13.3594]).actions.addRemove(S.map)
 ```
+![Germany](https://www.euractiv.com/wp-content/uploads/sites/2/2015/09/refugees_welcome_berlin.jpeg)
+
 **Why Germany?** 
 
 The right to asylum is a constitutional right in Germany and granted to everyone who flees political persecution. 
@@ -260,7 +262,7 @@ Refugees on Rails is an initiative that teaches the newcomers how to code. In do
 - zoom: 6
 L.marker([52.5830, 13.3594]).actions.addRemove(S.map)
 ```
-![Germany](https://www.euractiv.com/wp-content/uploads/sites/2/2015/09/refugees_welcome_berlin.jpeg)
+
 
 Once asylum seekers have been preregistered in Germany, they are sent to reception centres, often former army barracks with several hundred beds. They stay in these centerss for up to six months or until their application is decided on. After the application process, they are generally sent to group housing or are allocated private apartments. About 60 per cent of Germany’s refugees are living in reception centers or collective accommodation at the end of 2015 (the latest data available). 
 
