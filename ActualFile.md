@@ -42,6 +42,8 @@ _________________
 - zoom: 10
 L.marker([30.0976, 31.2671]).actions.addRemove(S.map)
 ```
+![Egypt] (https://patrickkeddie.files.wordpress.com/2013/06/palestinian-syrians-protest-at-the-palestinian-authoritys-embassy-in-cairo-photo-by-patrick-keddie1.jpg)
+
 Egypt is one of the top five countries with the largest number of urban refugees, and one of two African countries that don’t require that refugees live within camps. Cairo is currently hosting large numbers of refugees from Iraq, Sudan, Somalia, Ethiopia, Eritrea, Palestine and elsewhere. In Cairo, the United Nations High Commissioner for Refugees (UNHCR) is the primary institution that determines refugees’ status and offers protection. While NGOs and the UNHCR attempt to do their best to accommodate refugee populations in Cairo, these refugees still face issues in terms of legal representation/protection, security, employment, education, and healthcare—all of which are issues already faced by native Egyptians. For many refugees, despite speaking Arabic, Egypt is merely a pitstop on the way to Europe. Refugee organizations in Egypt, including UNHCR-Egypt, have attempted to create programs that address these integration issues, but have inadvertently deepened the divide between refugees and Egyptians by creating separate systems of care.
 
 
@@ -52,7 +54,7 @@ Egypt is one of the top five countries with the largest number of urban refugees
 L.marker([30.0538, 31.23841]).actions.addRemove(S.map)
 ```
 
-![Egypt](http://stars-egypt.org/wp-content/uploads/2017/05/stars-team-1024x398.jpg) 
+![Egypt](https://ssl.c.photoshelter.com/img-get/I0000fn0QGlnruBU/s/750/600/egypt2013-jeffrey-refugees1263.jpg) 
 
 Founded by St.Andrew’s United Church of Cairo, stARS attempts to establish an inclusive space for displaced individuals from: Ethiopia, Eritrea, Iraq, South Sudan, Sudan, Somalia, Syria and Yemen. In terms of education, stARS provides a preschool for children ages 3-6, an English-Sudanese curriculum for adolescents, an adult education program, and work training programs in fields like hairstyling, henna, sewing, IT work, and English. The organization also offers psychosocial services, assigning therapists/psychiatrists to certain clients to assess their mental and emotional status and provide resources “to help them think of ways to solve their problems.” The Refugee Legal Aid Program (RLAP) provides information, counseling, referral, representation, and advocacy for asylum seekers and refugees in Egypt. RLAP works with UNHCR and resettlement countries to assess refugee status determination, protection, and resettlement. With resettlement being an impossible prospect for many refugees, and repatriation being far too dangerous, most refugees find themselves remaining in a country they have difficulty integrating into.
 
@@ -79,7 +81,7 @@ http://stars-egypt.org/get-involved/
 - zoom: 12
 L.marker([30.0609, 31.2197]).actions.addRemove(S.map)
 ```
-![Egypt](http://www.refuge-egypt.org/wp-content/uploads/2015/08/Logo-White.jpg)
+![Egypt](https://pwrdf.org/wp-content/uploads/2016/06/download.png)
 
 When a foreigner resides among you in your land, do not mistreat them. The foreigner residing among you must be treated as your native-born. Love them as yourself, for you were foreigners in Egypt. I am the LORD your God.” Leviticus 19:33-34
 
