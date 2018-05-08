@@ -168,6 +168,7 @@ On February 3, 2016, the German government agreed on a set of stricter asylum me
 - zoom: 12
 L.marker([52.5185, 13.3954]).actions.addRemove(S.map)
 ```
+
 ![Germany](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/31280116_1901071603259460_6852752816751621647_n.jpg?_nc_cat=0&oh=3e936522aa02df783ea9ea0366b61927&oe=5B565C71)
 
 Known as Kiron University, it is an educational institution in Berlin that enables refugees'access to higher education and successful learning through digital solutions. Opened in 2015, the unversity runs all of its courses online and students have to submit proof of their refugee status in order to enroll. The university puts courses online by existing universities such as Yale, Harvard, and Cambridge, providing a wide range of courses availabe for refugees. 
