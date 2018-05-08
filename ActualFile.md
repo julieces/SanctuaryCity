@@ -136,7 +136,9 @@ The EFRR (Egyptian Foundation for Refugee Rights) is an organization that employ
 L.marker([52.5830, 13.3594]).actions.addRemove(S.map)
 ```
 ![Germany](https://wherewouldyougo.com/wp-content/uploads/2015/07/Berlin-Germany.jpg)
+
 ##**Statistics**
+_________________
 
 **Number of Refugees in Germany:** Record 1,300,000 in 2015; 123,000 in 2017
 
@@ -259,7 +261,9 @@ While refugees are not getting much help in finding job opportunities from the g
 - zoom: 5
 L.marker([41.7795, -87.7808]).actions.addRemove(S.map)
 ```
+
 ##**Statistics**
+_________________
 
 **Total Number of Refugees:** Roughly 30,000 in Chicagoland; roughly 15,000 in Chicago proper
 
@@ -398,8 +402,9 @@ L.marker([37.7653, -122.2256]).actions.addRemove(S.map)
 ```
 ![Oakland](https://media.bizj.us/view/img/4730031/oakland-skyline-8*1200xx5184-2916-0-270.jpg)
 
+
 ##**Statistics**
-________
+_________________
 **Total Refugee Arrivals in Alameda County (1995-2016) :** 6,431
 
 Where are these refugees from?
