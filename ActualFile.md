@@ -374,7 +374,7 @@ L.marker([41.9697, -87.6558]).actions.addRemove(S.map)
 Loom Chicago is an offshoot of Catholic Charities of the Archdiocese of Chicago, another Christian service organization in the city that offers resettlement services. Volunteers at Loom impart craft skills—jewelry-making, knitting, and weaving among them—to resettled women, or, as Loom refers to them, artisans. The artisans also offer craft workshops that are open to the public.
 Revenue from the products is split 75/25; 75 percent goes to the artisans, while the remaining 25 goes back to Loom for supply purchases. According to the company’s website, the current employees are from Nepal, Bhutan, Afghanistan, Sudan, Uganda, Syria, and Iraq.
 
-The skillset of Loom’s artisans is broad and diverse, but is typically viewed as traditional women’s work. It could be said that the organization reinforces gender roles by only hiring women. The converse of this argument is that Loom offers a safe space for women in vulnerable women to make a material contribution and turn a profit within a realm with which they are potentially already familiar.
+The skillset of Loom’s artisans is broad and diverse, but is typically viewed as traditional women’s work. It could be said that the organization reinforces gender roles by only hiring women. The converse of this argument is that Loom offers a safe space for women in vulnerable situations to make a material contribution and turn a profit within a realm with which they are potentially already familiar.
 
 **[MORE INFO HERE](http://www.loomchicago.com/)**
 
