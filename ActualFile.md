@@ -19,6 +19,8 @@ by Isa, Anna, Norah, & Sandra
 - zoom: 6
 L.marker([30.0976, 31.2671]).actions.addRemove(S.map)
 ```
+
+
 ![Egypt] (http://3tsll33cscvk11pae33oze51-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/cairo-first-time-visit-city-view.png)  
 
 ##**Statistics**
@@ -62,16 +64,23 @@ Despite their efforts at resettlement, only refugees who are at risk in Egypt fo
 
 • Medical Needs (life-threatening condition or severe dis-
 ability; requires treatment unavailable in Egypt; high prognosis of success if treated elsewhere; not able to over disability in Egypt; condition worsened in Egypt)
+
 • Women at Risk
+
 • Survivors of Violence and Torture (with severe effects
 of that torture in Egypt)
+
 • Unaccompanied Minors
+
 • Family Reunification
+
 • Elderly Refugees
 
 Most of these refugees are referred to live in the U.S., though the U.S. has its own resettlement programs for specific populations, rendering the resettlement efforts of RLAP futile.
 
-http://stars-egypt.org/get-involved/
+**[GET INVOLVED HERE](http://stars-egypt.org/get-involved/)**
+
+
 
 
 
@@ -87,7 +96,9 @@ When a foreigner resides among you in your land, do not mistreat them. The forei
 
 Despite the Christian population in Egypt being 10%, Refuge Egypt is another Christian organization providing humanitarian support to refugees in Cairo. For the first 2 years of being in Egypt, refugees are provided with food, clothing, and shelter. The organization provides youth education and mentorship, and trains refugee adults while placing them with prospective-employers in the fields of cooking, cleaning, driving, and babysitting. This organization also provides medical services through primary health care services, for other services, the organization provides referrals.  Unfortunately, 42 million native citizens already do not have insurance in Egypt, meaning that it is unlikely that refugees can receive medical care outside of facilities that cater solely to refugees.
 
-http://www.refuge-egypt.org/volunteer/
+**[GET INVOLVED HERE](http://www.refuge-egypt.org/volunteer/)**
+
+
 
 #**UNHCR**
 ```
@@ -99,7 +110,9 @@ L.marker([30.0577, 31.2227]).actions.addRemove(S.map)
 
 The UNHCR (UN Refugee Agency) has four offices in Egypt, three of which are located in Cairo. UNHCR seeks one of three durable solutions for refugees and asylum-seekers. These include voluntarily repatriation to the country of origin, local integration in the country of asylum, or resettlement to a third country. UNHCR works closer with NGOs in Egypt than it does with the Egyptian government itself, which can make local integration difficult. The UNHCR also “seeks to reduce situations of forced displacement by encouraging States and other institutions to create conditions that are conducive to the protection of human rights and the peaceful resolution of disputes. Ironically, the UNHCR has done little to protect the minority Christian population in Egypt, who are themselves seeking asylum elsewhere because of extreme religious persecution. It is possible that the vulnerability of Christians in Egypt is the driving force behind their desire to help refugees who, despite their different backgrounds and religions, have experienced similar persecution and violence. Though most NGOs that UNHCR is affiliated with are church-based, volunteers are extremely diverse in order to match the diversity of the country’s refugees and asylum-seekers. 
 
-http://www.unhcr.org/en-us/get-involved.html
+**[GET INVOLVED HERE](http://www.unhcr.org/en-us/get-involved.html)**
+
+
 
 
 #**Egyptian Foundation for Refugee Support**
@@ -112,7 +125,9 @@ L.marker([30.0563, 31.2460]).actions.addRemove(S.map)
 
 The EFRR (Egyptian Foundation for Refugee Rights) is an organization that employs and trains a national network of lawyers that provide legal services to refugees in Egypt. According to their website, “The network allows an increased number of refugees to access legal services in Cairo and provides, for the first time, legal services to refugees outside of Cairo.” The organization focuses on the representation of refugees that have been arrested, detained, or on the verge of deportation. The EFRR also hosts community meetings with refugees every several months, where members of the refugee communities are educated about laws that protect them and their rights. These meetings also function as networking events, where members of marginalized refugee communities can come together. Nevertheless, violence against refugees still persists in Egypt, as employment and educational facilities are already limited. 
 
-http://www.efrr-egypt.org/index.php/activities/community/15-roksprocket-lists/73-join-us
+**[MORE INFO HERE](http://www.efrr-egypt.org/index.php/activities/community/15-roksprocket-lists/73-join-us)**
+
+
 
 #**Berlin, Germany**
 ```
@@ -434,6 +449,8 @@ L.marker([37.7994, -122.2791]).actions.addRemove(S.map)
 
 Founded in 1978, the East Bay Refugee Forum is a coalition of over 30 different refugee oriented organizations and government agencies in the East Bay Area. The EBRF provides various resources to refugees, asylees, SIV holders and others who fled their home country in fear of persecution. Resources include employment training programs, English education classes, pro bono legal services and access to health services. In 2018, there are six scheduled meetings for the EBRF for the organizations and agencies involved to plan and coordinate their service efforts to provide the most conducive environment to supporting refugees and asylees. Having government agencies such as Alameda County Social Services Agency  and Public Health Department coordinate with non-profit organizations is a significant in creating an open dialogue to government services understanding what refugees and asylees are experiencing and what can be improved.
 
+**[INFO ON HOW TO HELP THESE ORGS HERE](http://eastbayrefugeeforum.org/how-you-can-help)**
+
 #**Oakland Civic Center**
 ```
 - center: [37.8105, -122.2728]
@@ -445,6 +462,8 @@ L.marker([37.8105, -122.2728]).actions.addRemove(S.map)
 Oakland has its own municipal ID system that is regarded as a valid form of identification to obtain a drivers licence and accessing medical services from healthcare providers. It can also be used to register for community college or be a valid form of photo ID for law enforcement. The documents of valid identification to obtain this Oakland City ID include a series of immigration documents that can be current or expired. This is an extremely useful resource for those who are undocumented as well as those who need another form of identification at short notice and for the price of only $15 for adults.
 
 
+**[MORE INFO HERE](http://www.oaklandcityid.com/)**
+
 #**International Rescue Committee Office**
 ```
 - center: [37.8089, -122.2530]
@@ -454,6 +473,8 @@ L.marker([37.8089, -122.2530]).actions.addRemove(S.map)
 ![IRC](https://help.rescue.org/files/irc/upload/20111216_ecarroll_holidaygiving_phoenix_014.jpg)
 
 The International Rescue Commmittee has multiple regional offices in the U.S. including six in California. As a prominent international organization, the IRC conducts a lot of work in resettling refugees in Oakland along with other more local non-profit organizations. One of the significiant assistance programs provided by IRC is the Soft Landing Fund, which provides rent and utilities support to new refugee and asylees that have arrived in Northern California in the past six months. However, it is a donation based fund so it is really dependent on the amount of donations recieved by the IRC. The IRC also works with AirBNB through their Open Homes intiatiave to provide free interim housing for refugees and asylees. When the intiative first started in June of last year there were already more than 160 landlords in the Bay Area signed up to provide free housing. These AirBNB rentals are used as temporary housing during the search to find permanent housing for refugees and asylees when previously the IRC often had to post these families and individuals in costly hotels.
+
+**[GET INVOLVED HERE](https://www.rescue.org/volunteer-opportunities/oakland-ca)**
 
 
 #**Oakland Unified School District**
@@ -466,6 +487,8 @@ L.marker([37.8019, -122.2723]).actions.addRemove(S.map)
 
 As part of the California Dept. of Social Services there is a The California Newcomer Education and Well-Being (CalNEW) project which provides funding to California school districts for higher populations of refugees and other eligible school-aged immigrants being served by the Office of Refugee Resettlement. State Assembly Bill 99 passed last year appropriated ten million dollars over the next three fiscal years to multiple school districts to assist with English language classes, hiring bilingual counselors and other measures to improve school programs dedicated to helping younger refugees and asylees adjust and recieve the educational experience they deserve. The Oakland Unified School District has so far recieved $1.8  million dollars over two years to improve their English Language Learner and Multilingual Achievement (ELLMA) newcomer programs.
 
+**[MORE INFO HERE](https://www.ousd.org/domain/94)**
+
 
 #**1951 Coffee Company** 
 ```
@@ -476,6 +499,8 @@ L.marker([37.8666, -122.2607]).actions.addRemove(S.map)
 ![1951](http://pixel.nymag.com/imgs/daily/grub/2017/03/17/17-1951-coffee-1.w710.h473.2x.jpg)
 
 The 1951 Coffee Company is a non-profit organization that functions as a training program to help refugees and asylees improve their English skills, provide barista and basic job training in order to build their resume and apply for employment around the Bay Area. It was founded in 2015 by two former International Rescue Committee employees as a method of aiding refugees and asylees gain marketable skills when many individuals face difficulties in securing that first job while adjusting to a completely new workforce/ job market. The name of the organization is actually derived from the 1951 UN Convention relating to the status of Refugees. In January of 2017, around the time of the first Trump travel ban, a 1951 Coffee Company cafe opened in Berkeley almost exclusively staffed by refugees and asylees. The 1951 Coffee Company continues to accept donations to support its training program and it has recieved a lot of public support, includng a $63,000 grant from Starbucks last year.
+
+**[MORE INFO HERE](http://1951coffee.com/)**
 
 #**Bay Area Legal Aid**
 ```
@@ -488,6 +513,8 @@ L.marker([37.8074, -122.2702]).actions.addRemove(S.map)
 Bay Area Legal Aid is the largest civil legal aid provider in the Bay Area that provides services for the residents of multiple Bay Area counties, including Alameda county. It provides legal advice and representation to low-income clients  across a various number of civil legal issues. Lawyers assist with immigration services, consumer protection, domestic violence and sexual assault and housing discrimination issues. One of the largest problems for refugees, asylees and other documented or undocumented immigrants within Oakland is the high cost/ competitiveness of the housing market, which leaves room for high levels of discrimination from landlords. Even though it is technically illegal for a landlord to inquire about a perspective tenants immigration status many do so anyway which makes it extremely difficult for many immigrants to obtain housing. The Oakland Housing Authority that provides public and affordable housing must abide by federal regulations from HUD that at least one family member be a U.S. citizen or have eligibile immigration status. This means many immigrants must seek housing ftom private landlords. For those who have secured housing, there are many stories about landlords who maintain poor housing conditions and threaten tenants with reporting them to ICE if they lodge complaints against them. 
 
 Pro bono legal aid such as Bay Area Legal Aid and other similar legal organizations is significant in making sure that the Oakland's laws are upheld and the rights of the minority population of refugees, asylees and other immigrants are protected.
+
+**[MORE INFO HERE](https://baylegal.org/)**
 
 
 #**What's next?**
