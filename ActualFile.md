@@ -275,6 +275,7 @@ While refugees are not getting much help in finding job opportunities from the g
 - zoom: 5
 L.marker([41.7795, -87.7808]).actions.addRemove(S.map)
 ```
+![Chicago1](https://urbanmatter.com/chicago/wp-content/uploads/2016/09/chicago-image-1-1.jpg)
 
 ##**Statistics**
 _________________
@@ -293,9 +294,8 @@ _________________
 L.marker([41.7795, -87.7808]).actions.addRemove(S.map)
 ```
 
-![Chicago](https://upload.wikimedia.org/wikipedia/commons/3/3e/Chicago_aerial_02.jpg)
+![Chicago2](http://www.statuestorieschicago.com/statues/cloudgate.jpg)
 
-**Why Chicago?**
 
 Chicago’s history as a Sanctuary City dates back to the 1980s, when the Wellington Avenue Church voted to join the budding sanctuary movement in 1982. The church became the final stop for refugees from El Salvador and Guatemala, who could only enter the United States illegally due to the country’s support of Central American military dictatorships. 
 
