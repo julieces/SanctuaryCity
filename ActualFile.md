@@ -5,7 +5,7 @@
 ```
 
 #**What's in a Name?**
-**Key Features of Sanctuary Cities Across the World**
+**What Makes a Sanctuary City a Sanctuary City**
 
 by Isa, Anna, Norah, & Sandra
 ```
