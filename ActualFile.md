@@ -304,6 +304,7 @@ Services include cultural adjustment case management, employment counseling, job
 
 A notable aspect of this organization is its relationship to the U.S. Department of State, with whom it is contracted to partake in the resettlement process. It is also worth noting the success of World Relief—a Christianity-affiliated organization—in relation to similar organizations affiliated with other faiths, such as Hebrew Immigrant Aid Society, which was forced to end its refugee resettlement program after the State Department severed contracts with resettlement organizations who placed under 100 refugees per year. 
 
+**[GET INVOLVED HERE](https://worldreliefchicago.org/volunteer-opportunities)**
 
 #**RefugeeOne**
 ```
@@ -317,7 +318,7 @@ RefugeeOne offers similar services to World Relief, with additional youth progra
 
 The organization is the largest of its kind in Illinois, and has successfully resettled over 17,000 refugees while priding itself on helping those resettled to establish self-sufficiency in a general span of six to nine months.
 
-
+**[GET INVOLVED HERE](http://www.refugeeone.org/getinvolved.html)**
 
 #**Eli's Cheesecake Company**
 ```
@@ -332,7 +333,7 @@ Eli’s Cheesecake is a popular Chicago restaurant and bakery that is most famou
 
 Eli's almost exclusively hires "skilled" workers, which, while actively pushing against the false perception of refugees as lacking skill, also displays the plight of resettled refugees who may be considered "unskilled."
 
-
+**[MORE INFO HERE](http://www.elicheesecake.com/)**
 
 #**Loom Chicago**
 ```
@@ -349,6 +350,7 @@ Revenue from the products is split 75/25; 75 percent goes to the artisans, while
 
 The skillset of Loom’s artisans is broad and diverse, but is typically viewed as traditional women’s work. It could be said that the organization reinforces gender roles by only hiring women. The converse of this argument is that Loom offers a safe space for women in vulnerable women to make a material contribution and turn a profit within a realm with which they are potentially already familiar.
 
+**[MORE INFO HERE](http://www.loomchicago.com/)**
 
 #**Chicago Teachers Union**
 ```
@@ -361,6 +363,7 @@ L.marker([41.8875, -87.6754]).actions.addRemove(S.map)
 The Chicago Teachers Union (CTU) has historically been an advocate of all students, including refugees and immigrants, since it was founded in 1937. Its website clearly outlines its policy of welcoming and protecting all of its students, regardless of immigration status. The CTU also expresses discontent with Chicago’s current legal framework for refugees, and argues that the city should be doing much more to solidify its status as a sanctuary city. In the past, the CTU has issued direct statements to Mayor Emanuel, including one urging him to “step up to protect” undocumented immigrants following the reversal of DACA.
 The CTU website contains number of original resources including guides for other educators to successfully work with refugee students and address their needs. Presently, the CTU is concluding a three-part training series on the issues that directly affect immigrant students.
 
+**[MORE INFO HERE](https://www.ctunet.com/)**
 
 #**Roger C. Sullivan High School**
 ```
@@ -376,6 +379,7 @@ Budget cuts by Chicago Public Schools (CPS) and a lack of state funding do not l
 
 Sullivan “reinvented” its identity as a destination school for resettled refugees after several years of low attendance and graduation rates, poor academic performance, and violence. The high school is a fascinating case study when attempting to answer the question posed at the beginning of this section: how does Chicago reconcile with its multiple vulnerable populations without privileging one over the other?
 
+**[MORE INFO HERE](http://sullivanhs.org/)**
 
 #**Next Steps: Chicago**
 ```
