@@ -261,7 +261,7 @@ There are adjustments made due to the current refugee crisis.
 
 On February 3, 2016, the German government agreed on a set of stricter asylum measures (Asylum Package II), which will now be debated by the German Bundestag. The Asylum Package II would suspend family reunification for refugees with subsidiary protection status for a period of two years; decrease asylees’ monthly cash benefits; facilitate deportation; establish a new Federal Police unit to help procure replacement documents; improve the safety of refugee minors; and designate Algeria, Morocco, and Tunisia as safe countries of origin.
 
-ALso, Angela Merkel agreed to limit refugees and control became the new core of Germany’s refugee policy in 2017. She has agreed to limit the number of asylum seekers allowed to enter Germany each year to 200,000.
+Also, Angela Merkel agreed to limit refugees and control became the new core of Germany’s refugee policy in 2017. She has agreed to limit the number of asylum seekers allowed to enter Germany each year to 200,000.
 
 Despite these adjustments, there are many organizations in Berlin that help refugees integrating into the German society as well as getting jobs and proper educations.
 
