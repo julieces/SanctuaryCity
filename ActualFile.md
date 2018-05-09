@@ -24,7 +24,7 @@ L.marker([30.0976, 31.2671]).actions.addRemove(S.map)
 ![Egypt] (http://3tsll33cscvk11pae33oze51-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/cairo-first-time-visit-city-view.png)  
 
 ##**Statistics**
-_________________
+
 **Refugees in Egypt:** 221,675
 
 **Syrian Refugees:** 127,414
@@ -154,7 +154,7 @@ L.marker([52.5830, 13.3594]).actions.addRemove(S.map)
 ![Germany](https://wherewouldyougo.com/wp-content/uploads/2015/07/Berlin-Germany.jpg)
 
 ##**Statistics**
-_________________
+
 
 **Number of Refugees in Germany:** Record 1,300,000 in 2015; 123,000 in 2017
 
@@ -295,7 +295,7 @@ L.marker([41.7795, -87.7808]).actions.addRemove(S.map)
 ![Chicago1](https://urbanmatter.com/chicago/wp-content/uploads/2016/09/chicago-image-1-1.jpg)
 
 ##**Statistics**
-_________________
+
 
 **Total Number of Refugees:** Roughly 30,000 in Chicagoland; roughly 15,000 in Chicago proper
 
@@ -438,7 +438,7 @@ L.marker([37.7653, -122.2256]).actions.addRemove(S.map)
 
 
 ##**Statistics**
-_________________
+
 **Total Refugee Arrivals in Alameda County (1995-2016) :** 6,431
 
 Where are these refugees from?
