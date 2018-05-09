@@ -561,7 +561,7 @@ Pro bono legal aid such as Bay Area Legal Aid and other similar legal organizati
 L.marker([37.7653, -122.2256]).actions.addRemove(S.map)
 ```
 
-![BLA](https://media.nbcbayarea.com/images/1200*675/GettyImages-632928850-JFK-protests.jpg) 
+![BLA](https://media.nbcbayarea.com/images/987*657/SFOa2.jpg) 
 
 Oakland officials have made it clear that they are not going to back down from opposing the Trump administration's dangerous immigration policies and continue to demonstrate their dedication to protecting immigrants, such as a City Council ordinance that was recently passed that requires review by City Council and the Privacy Advisory Commission of all surveillance technology used by law enforcement. Alameda County and a few other California counties have also recently denied contracts with an automatic license plate reader company that has provided information to ICE. A current threat to Oakland's status as a sanctuary city is the current lawsuit from the Justice Department against SB 54 which is the California state law for forbidding direct law enforcement cooperation with ICE. Unfortunately, Oakland and the whole state of California must operate within the federal framework and it will remain to be seen whether the sanctuary law will be defended in court. In the long term, Oakland as a city must work to create a supportive environment for smaller refugee communities such as the Syrian population because it is necessary for a faster integration process since the cost of living in Oakland is so high.
 
