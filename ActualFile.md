@@ -134,7 +134,14 @@ Many refugees, according to the Library of Congress, reported a lack of police p
 
 **[MORE INFO HERE](http://www.efrr-egypt.org/index.php/activities/community/15-roksprocket-lists/73-join-us)**
 
+#**What's next for Egypt?
+```
+- center: [30.0976, 31.2671]
+- zoom: 6
+L.marker([30.0976, 31.2671]).actions.addRemove(S.map)
+``` 
 
+Despite the existence of laws that diminish the social and economic mobility of refugees in Egypt, several stands have been taken by everyday Egyptian citizens. Late March, a newly established project, Startups Without Borders, gathered hundreds of women in Cairo. Attendees, comprising mostly of refugees, listened to sessions about small-business development. Many heads of businesses were there in an effort to encourage refugees to pursue entreprenurial practices. "The main idea is that we match refugee and migrant entrepreneurs with available opportunities in order to help them launch and develop their startups,” Valentina Primo, the founder of Startups without Borders explained. According to the United Nations, Syrian refugees alone have contributed nearly $800 million to Egypt's economy since the start of the Syrian crisis. 
 
 #**Berlin, Germany**
 ```
