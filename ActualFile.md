@@ -134,7 +134,7 @@ Many refugees, according to the Library of Congress, reported a lack of police p
 
 **[MORE INFO HERE](http://www.efrr-egypt.org/index.php/activities/community/15-roksprocket-lists/73-join-us)**
 
-#**What's next for Egypt?
+#**Next Steps: Egypt**
 ```
 - center: [30.0976, 31.2671]
 - zoom: 6
